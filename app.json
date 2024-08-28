@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "jobNest",
+    "slug": "jobNest",
+    "splash":{
+      "image":"./assets/splash3.png",
+      "resizeMode":"cover",
+      "backgroundColor":""
+    }
+  }
+}
